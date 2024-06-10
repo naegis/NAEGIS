@@ -1,3 +1,8 @@
+
+
+
+
+
 function downloadFile() {
          window.open("Resume_Fajardo, Ma. Betina Julianna C.pdf")
       }
@@ -6,28 +11,8 @@ function downloadFile() {
 const circles = document.querySelectorAll(".circle");
 
 const colors = [
-  "#51306e",
-  "#6a3872",
-  "#814276",
-  "#954e79",
-  "#a85b7c",
-  "#b96a7f",
-  "#c87984",
-  "#d58a89",
-  "#e29b90",
-  "#ecad98",
-  "#f6bfa3",
-  "#ffd1af",
-  // Added colors with a gradient towards yellow (no orange)
-  "#fde6c0", // Lighter shade of the last color
-  "#fcdca4", // Lighter, cooler yellow than previous
-  "#fcb698", // Lighter, even cooler yellow
-  "#f9aab0", // Very light yellow
-  "#f79c9c", // Light yellow with a hint of cream
-  "#f58e8e", // Light yellow with a touch of peach (subtle)
-  "#f38080", // Light yellow with a warmer tone
-  "#f17272", // Warmer yellow
-  "#eff474"  // Final color - bright yellow
+
+  "#fff"
 ];
 
 
